@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+}
+.container{
+    margin: 6%;
+}
+.header{
+    display: flex;
+    margin-left: 2%;
+}
+.part-1{
+    width: 40%;
+}
+.part-2{
+    width: 60%;
+    margin-left: 15%;
+}
+h1{
+    color: rgb(84, 7, 84);
+}
+.p-1{
+    color: rgb(154, 131, 131);
+}
+.review{
+    background-color: whitesmoke;
+    width: 70%;
+    margin: 2%;
+    padding: 1%;
+    margin-left: 20%;
+    border-radius: 4%;
+}
+.star{
+    color: darkgoldenrod;
+}
+.review-1{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.review-2{
+    margin-left: 15%;
+}
+.review-3{
+    margin-left: 20%;
+}
+.footer{
+    display: flex;
+}
+.card{
+    background-color: rgb(84, 7, 84);
+    color: white;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 2%;
+    width: 30%;
+}
+.card-1{
+    margin-top: 5%;
+}
+.card-2{
+    margin-top: 7%;
+}
+.card-3{
+    margin-top: 9%;
+}
+.card-header{
+    display: flex;
+}
+img{
+    border-radius: 100%;
+}
+.name-1{
+    margin-left: 10%;
+}
+.head-2{
+    color: purple;
+}
